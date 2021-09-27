@@ -1,0 +1,33 @@
+body {
+    width: 95%;
+    max-width: 1000px;
+    margin: auto;
+
+    font-family: sans-serif;
+    line-height: 1.5;
+    
+}
+
+main {
+    background: #00000054;
+    padding: 5px 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    background: black;
+    
+    
+}
+
+.imagem{
+    width: 6cm;
+    margin-left: 750px;
+    margin-top: 50px;
+}
+
+.fonte{
+    color: blanchedalmond;
+}
